@@ -41,7 +41,7 @@ A aplicação permitirá cadastrar clientes, técnicos, serviços, realizar agen
 ## ▶️ Como executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-agendamento.git
+   git clone https://github.com/igorlds07/Sistema_Agendamento.git
 Entre no diretório do projeto:
 
 bash
@@ -60,3 +60,4 @@ http://localhost:8080
 📌 Status do projeto
 🚧 Em desenvolvimento 🚧
 Atualmente implementando as entidades e relacionamentos principais.
+
